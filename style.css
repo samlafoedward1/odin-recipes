@@ -1,0 +1,18 @@
+.mainPage {
+  height: 100vh;
+}
+.title {
+  text-align: center;
+  background-color: beige;
+}
+.footer {
+  font-size: 150%;
+  text-align: center;
+}
+.Lasagna {
+}
+.lasagna {
+  display: block;
+  height: 250px;
+  width: 300px;
+}
